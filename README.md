@@ -4,4 +4,4 @@
 ##  **Estava sem ideia de projeto entao resolvi falar um pouco sobre como anda meus estudos na dio**
 ## Alem da dio uso a internet a meu favor pesquisando mais sobre os assuntos que eles passam para a gente
 ## abaixo segue alguns links que eu usei para fazer algumas pesquisas .
-** [links] (https://terminalroot.com.br/git/)
+### [links] (https://terminalroot.com.br/git/)
